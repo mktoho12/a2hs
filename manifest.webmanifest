@@ -1,0 +1,15 @@
+{
+  "background_color": "#EAD733",
+  "description": "Sample to add to the home screen.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/test-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "a2hs sample",
+  "short_name": "A2HS",
+  "start_url": "/index.html"
+}
